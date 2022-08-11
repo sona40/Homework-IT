@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.jsx";
+import "./App.css";
 import FetchUsers from "./components/FetchUsers"
 
 function App() {
